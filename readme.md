@@ -54,4 +54,4 @@ class Post extends Model
 
 ## Goal
 
-The goal of this project is to provide a basic MVC structure for &&** PHP applications **, similar to the popular ** Laravel framework **. This structure can be used as a starting point for building more complex web applications, with additional models, views, and controllers.
+The goal of this project is to provide a basic MVC structure for ** PHP applications **, similar to the popular ** Laravel framework **. This structure can be used as a starting point for building more complex web applications, with additional models, views, and controllers.
