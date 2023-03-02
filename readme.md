@@ -17,11 +17,11 @@ This folder contains the model classes, each extending the abstract Model class.
 
 To create a new model, create a new file in the Models directory and extend the Model class. Be sure to set the $tableName property to the name of the database table that the model represents.
 
-### Views:
+### Views:(To-DO)
 
 This folder contains the views (HTML templates) that are rendered by the controller actions. Each view corresponds to a specific controller action.
 
-### Controllers:
+### Controllers(To-DO):
 
 This folder contains the controller classes. These classes handle the user input and decide which view to render based on that input. Each controller action corresponds to a specific URL route.
 
